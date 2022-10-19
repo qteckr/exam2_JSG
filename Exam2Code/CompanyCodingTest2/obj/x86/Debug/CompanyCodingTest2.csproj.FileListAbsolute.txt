@@ -1,0 +1,7 @@
+D:\GitHub\CompanyCodingTest2\CompanyCodingTest2\obj\x86\Debug\CompanyCodingTest2.Form1.resources
+D:\GitHub\CompanyCodingTest2\CompanyCodingTest2\obj\x86\Debug\CompanyCodingTest2.Properties.Resources.resources
+D:\GitHub\CompanyCodingTest2\CompanyCodingTest2\obj\x86\Debug\CompanyCodingTest2.csproj.GenerateResource.Cache
+D:\GitHub\CompanyCodingTest2\CompanyCodingTest2\bin\Debug\CompanyCodingTest2.exe
+D:\GitHub\CompanyCodingTest2\CompanyCodingTest2\bin\Debug\CompanyCodingTest2.pdb
+D:\GitHub\CompanyCodingTest2\CompanyCodingTest2\obj\x86\Debug\CompanyCodingTest2.exe
+D:\GitHub\CompanyCodingTest2\CompanyCodingTest2\obj\x86\Debug\CompanyCodingTest2.pdb
